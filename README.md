@@ -1,4 +1,3 @@
-[ukaverse-v2 (1).html](https://github.com/user-attachments/files/27230217/ukaverse-v2.1.html)
 # ukaverse
 <!DOCTYPE html>
 <html lang="en">
